@@ -1,4 +1,20 @@
-# Contractors Management System
+<div align="center"><img src="https://raw.githubusercontent.com/matef-hub/atefdodo/main/assets/research-signal.svg" width="100%" alt="Legal research · verified data · applied AI"/></div>
+
+# Contractors Tracking System | متابعة عقود المقاولين
+
+**VB.NET · Windows Forms · Excel data storage**
+
+A contractor contracts and work-assignment tracker with an Arabic-facing workflow. This is a desktop application rather than the separate Laravel or Android law-office projects.
+
+```mermaid
+flowchart LR
+  A["Contractor"] --> B["Work assignment"]
+  B --> C["Excel workbook"]
+  C --> D["Search / print / review"]
+```
+
+## Technical documentation
+
 
 A VB.NET Windows Forms application for managing contractor contracts and work assignments using Excel as the backend database.
 
